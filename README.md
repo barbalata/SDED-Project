@@ -1,6 +1,8 @@
 # SDED-Project
 
-Aceasta este o aplicație ce prezintă un capitol din cursul "Sisteme dinamice cu evenimente discrete (SDED)". _Limbajul de programare a fost ales de către mine_ (profesorul de curs dorind ca suportul să fie realizat într-un mod "cât mai creativ"), astfel învățând JavaFX.
+Aceasta este o aplicație ce prezintă un capitol din cursul "Sisteme dinamice cu evenimente discrete (SDED)". 
+
+_Limbajul de programare a fost ales de către mine_ (profesorul de curs dorind ca suportul să fie realizat într-un mod "cât mai creativ"), astfel învățând JavaFX.
 
 A fost realizat în JavaFX și a fost realizat pentru această materie în scopul realizării unui suport de curs pentru acel capitol.
 
